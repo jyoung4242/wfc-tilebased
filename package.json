@@ -1,0 +1,27 @@
+{
+  "name": "wfc-tilebased",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@peasy-lib/peasy-assets": "^0.2.5",
+    "@peasy-lib/peasy-input": "^0.2.0",
+    "@peasy-lib/peasy-ui": "^0.9.57",
+    "chance": "^1.1.11"
+  },
+  "devDependencies": {
+    "@types/chance": "^1.1.5",
+    "json": "^11.0.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0"
+  }
+}
